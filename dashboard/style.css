@@ -1,0 +1,270 @@
+html {
+    background-image: url(cloud.JPG);
+}
+
+body {
+    background-color: #bbeaff;
+    max-width: 75%;
+    margin: auto;
+    border-style: transparent;
+    border-radius: 10px;
+    height: 1300px;
+    flex-wrap: wrap;
+}
+
+.wie {
+    text-align: center;
+    padding: 8px;
+    margin: -1px;
+    background-color: #72d3fe;
+    flex-wrap: wrap;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+    font-size: x-large;
+    background-color: #98ddfc;
+    padding: 20px;
+    margin: -1px;
+    border-style: transparent;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.foto img {
+    display: flex;
+    width: 150px;
+    position: absolute;
+    left: 400px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    border-radius: 20px;
+}
+
+.border {
+    display: flex;
+    width: 300px;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 40px;
+    position: relative;
+    right: 100px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.tekst {
+    display: flex;
+    margin: -80px;
+    flex-wrap: wrap;
+}
+
+.verhaal {
+    display: flex;
+    margin: -5px;
+    flex-wrap: wrap;
+}
+
+.content2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.border2 {
+    display: flex;
+    width: 300px;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 125px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 40px;
+    position: absolute;
+    left: 200px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.bio {
+    display: flex;
+    margin: -90px;
+}
+
+.verhaal2 {
+    display: flex;
+    margin: 40px;
+}
+
+.foto2 {
+    display: flex;
+    width: 100px;
+    height: 90px;
+    flex-direction: row;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+
+.foto3 {
+    display: flex;
+    margin-top: 175px;
+    height: 275px;
+    margin-left: 40px;
+
+}
+
+.border3 {
+    display: flex;
+    width: 300px;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 290px;
+    margin-left: 30px;
+    background-color: white;
+}
+
+.content3 {
+    display: flex;
+}
+
+.school {
+    display: flex;
+    margin-top: -50px;
+}
+
+.verhaal3 {
+    display: flex;
+    margin: 60px;
+    position: absolute;
+    left: 750px;
+}
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #72d3fe;
+    color: black;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 9px;
+}
+
+.border4 {
+    display: flex;
+    width: 200px;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 50px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 100px;
+    position: relative;
+    right: 850px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.adres {
+    display: flex;
+    margin: -30px
+}
+
+.verhaal4 {
+    display: flex;
+    margin-top: 50px;
+    position: relative;
+    right: 40px;
+}
+
+.huis {
+    display: flex;
+    height: 300px;
+    position: absolute;
+    left: 800px;
+    margin: 30px;
+}
+
+.line {
+    border-bottom: 6px solid black;
+    margin-top: 400px;
+}
+
+.contact {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.box {
+    display: flex;
+    margin-left: 500px;
+    margin-top: -200px;
+    width: 400px;
+}
+
+.footer2 {
+    text-align: center;
+    padding: 3px;
+    background-color: #72d3fe;
+    color: black;
+    margin-top: 440px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 9px;
+}
+
+.border5 {
+    display: flex;
+    width: 400px;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 50px;
+    height: 350px;
+    border-radius: 20px; 
+    background-color: white; 
+}
+
+.agenda img{
+    display: flex;
+    height: 150px;
+    border-style: transparent;
+    border-radius: 20px;
+    position:absolute;
+    left: 800px;
+    margin-top: -450px;
+}
+
+.student img{
+    display: flex;
+    height: 150px;
+    position:absolute;
+    left: 900px;
+    margin-top: -250px;
+    border-radius: 20px;
+}
+
+.footer3 {
+    text-align: center;
+    padding: 3px;
+    background-color: #72d3fe;
+    color: black;
+    margin-top: 550px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 9px;
+}
